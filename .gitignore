@@ -79,6 +79,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# VitePress
+node_modules/
+docs/.vitepress/cache/
+docs/.vitepress/dist/
+
 # IPython
 profile_default/
 ipython_config.py

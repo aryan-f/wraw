@@ -2,6 +2,8 @@
 
 `wraw` is a pure Python reader for Waters MassLynx `.raw` directories. The project currently targets the file layouts produced by the Waters instruments used in our lab and rejects layouts it cannot positively identify.
 
+Read the [documentation and API reference](https://aryan-f.github.io/wraw/).
+
 Please [open an issue](https://github.com/aryan-f/wraw/issues) to suggest new features or report bugs. Contributions are welcome!
 
 ## Installation
